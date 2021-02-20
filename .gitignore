@@ -1,0 +1,5 @@
+.idea/
+src/main/java/com/fanns/leetcode/editor/cn/all.json
+src/main/java/com/fanns/leetcode/editor/cn/translation.json
+*.iml
+target/
